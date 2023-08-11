@@ -1,8 +1,7 @@
 # bioinformaticsisfun
 
 
-```
-.
+```.
 └── Bioinformatics Is Fun
     |
     ├── Programming
@@ -19,6 +18,5 @@
     │   └── Development 
     ├── Projects
     └── Q&A
-
 ```
 
