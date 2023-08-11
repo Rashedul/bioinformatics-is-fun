@@ -24,9 +24,9 @@
 
 - Programming
 	- [Bash](files/bash.md)
-	- R
-	- Python
+	- [R](files/r.md)
+	- [Python](files/python.md)
  - [Analysis](files/analysis.md)
-- lgorithm
-- Projects
-- Q&A
+- [Algorithm](files/algorithm.md)
+- [Projects](files/projects.md)
+- [Q&A](files/qa.md)
