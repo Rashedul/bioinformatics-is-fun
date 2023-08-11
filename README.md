@@ -6,7 +6,7 @@
 └── Bioinformatics Is Fun
     |
     ├── Programming
-    │   ├── bash
+    │   ├── Bash
     │   ├── R
     │   └── Python
     ├── Analysis
@@ -17,6 +17,9 @@
     │   ├── Understandign the basics
     │   ├── Implementation
     │   └── Development 
+    └── Projects
+    │
     └── Q&A
+
 ```
 
