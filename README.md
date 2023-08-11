@@ -23,7 +23,7 @@
 #### Please find the videos, slides and scripts in the following links
 
 - Programming
-	- Bash(files/bash.md)
+	- [Bash](files/bash.md)
 	- R
 	- Python
  - Analysis
