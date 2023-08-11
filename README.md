@@ -17,8 +17,7 @@
     │   ├── Understandign the basics
     │   ├── Implementation
     │   └── Development 
-    ├──  Projects
-    │
+    ├── Projects
     └── Q&A
 
 ```
