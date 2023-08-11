@@ -4,12 +4,13 @@
 ```
 .
 └── Bioinformatics Is Fun
+    |
     ├── Programming
     │   ├── bash
     │   ├── R
     │   └── Python
     ├── Analysis
-    │   ├── data & files
+    │   ├── Data & files
     │   ├── Software tools
     │   └── Interpretation
     ├── Algorithm
