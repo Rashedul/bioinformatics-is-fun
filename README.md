@@ -1,6 +1,6 @@
 # bioinformaticsisfun
 
-~~~
+
 .
 └── bioinformaticsisfun
     ├── programming
@@ -17,4 +17,3 @@
     │   └── test1
     └── QA
 
-~~~
