@@ -27,12 +27,12 @@
 	- R
 	- Python
  - Analysis
-    │   ├── Data & files
-    │   ├── Software tools
-    │   └── Interpretation
-    ├── Algorithm
-    │   ├── Understandign the basics
-    │   ├── Implementation
-    │   └── Development 
-    ├── Projects
-    └── Q&A
+	- Data & files
+	- Software tools
+	- Interpretation
+- lgorithm
+	- Understandign the basics
+	- Implementation
+	- Development 
+- Projects
+- Q&A
