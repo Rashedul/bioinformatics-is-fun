@@ -30,7 +30,7 @@ graph TD;
 
 
 
-```flowchart LR
+```flowchartLR
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
