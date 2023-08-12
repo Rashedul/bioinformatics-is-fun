@@ -16,6 +16,7 @@
     │   ├── Understandign the basics
     │   ├── Implementation
     │   └── Development 
+    ├── Pipelines
     ├── Projects
     └── Q&A
 ```
@@ -26,7 +27,8 @@
 	- [Bash](files/bash.md)
 	- [R](files/r.md)
 	- [Python](files/python.md)
- - [Analysis](files/analysis.md)
+- [Analysis](files/analysis.md)
 - [Algorithm](files/algorithm.md)
+- [Pipelines](files/pipelines.md)
 - [Projects](files/projects.md)
 - [Q&A](files/qa.md)
